@@ -1,2 +1,1 @@
-# streaming-data-project
-Streaming data generate from python to google big query using pub/sub
+Streaming data generate from python local to google big query using pub/sub
