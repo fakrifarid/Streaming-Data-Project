@@ -1,3 +1,3 @@
-Streaming data generate from python local to google big query using pub/sub
+Streaming Insert Into Big Query Using Google Cloud Pub/Sub
 
 ![Alt text](https://github.com/fakrifarid/Streaming-Data-Project/blob/main/flowdiagram.png)
