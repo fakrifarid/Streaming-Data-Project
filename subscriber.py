@@ -4,7 +4,7 @@ from google.cloud import pubsub_v1
 from google.cloud import bigquery
 
 # Credential for pub/sub and bigquery
-credential = '/Users/fakrifarid/Documents/Streaming-Data/Pub-Sub/streaming-data-project-396608-8de21c2f0b74.json'
+credential = 'your-service-account.json'
 
 # Create a BigQuery client
 client = bigquery.Client.from_service_account_json(credential)
